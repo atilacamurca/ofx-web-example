@@ -19,9 +19,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>ofx4j-reader-only</artifactId>
-            <version>${project.version}</version>
+            <groupId>com.webcohesion.ofx4j</groupId>
+            <artifactId>ofx4j</artifactId>
+            <version>1.37</version>
         </dependency>
         <dependency>
             <groupId>javax</groupId>
